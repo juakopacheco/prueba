@@ -490,6 +490,11 @@ h6 {
 }
 
 #hero h1 span {
+  color: #1C004A;
+  font-family: impact;
+}
+
+#hero h1 soft {
   color: #004BFF;
 }
 
